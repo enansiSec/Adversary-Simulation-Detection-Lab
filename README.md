@@ -1,4 +1,4 @@
-# Cybersecurity Adversary Simulation & Detection Lab
+# Adversary Simulation & Detection Lab
 
 ## Objective
 
