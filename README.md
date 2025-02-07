@@ -66,7 +66,7 @@ Key Features:
   - Configured log forwarding from Juice Shop to Splunk.
   - Built Splunk dashboards to detect SQL injection, XSS, and brute-force attempts.
   - Simulated real-world attack traffic and monitored detections.
-Platforms Used: Ubuntu, VirtualBox, Docker, Splunk, OWASP Juice Shop.
+  - Platforms Used: Ubuntu, VirtualBox, Docker, Splunk, OWASP Juice Shop.
 
 2️⃣ Automated Web Traffic Simulation & Analysis
 Summary: Developed AI-assisted traffic bots using Selenium & Playwright to mimic real-world browsing behavior.
@@ -74,7 +74,7 @@ Key Features:
   - Automated traffic to simulate human-like interactions.
   - Analyzed bot detection techniques and evasions.
   - Configured Splunk SIEM to detect anomalies.
-Platforms Used: Ubuntu, Docker, Playwright, Selenium, Splunk.
+  - Platforms Used: Ubuntu, Docker, Playwright, Selenium, Splunk.
 
 3️⃣ DVWA Security Analysis & SIEM Integration
 Summary: Conducted web attack simulations against Damn Vulnerable Web App (DVWA) with Splunk log analysis.
@@ -82,6 +82,6 @@ Key Features:
  - Configured SIEM alerts for SQL injection and XSS.
  - Used Burp Suite, Nmap, and Wireshark for deep packet analysis.
  - Simulated brute-force attacks against login forms.
-Platforms Used: Ubuntu, Apache2, MariaDB, Splunk, DVWA.
+ - Platforms Used: Ubuntu, Apache2, MariaDB, Splunk, DVWA.
 
 
