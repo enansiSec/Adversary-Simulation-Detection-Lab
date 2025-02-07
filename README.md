@@ -10,11 +10,11 @@ Some of you who have come may have already put together a lab, only to let it ro
 
 This cybersecurity homelab is designed to provide hands-on experience in both offensive (Red Team) and defensive (Blue Team) security. The primary goal is to:
 
-✅ Develop hands-on Blue Team expertise by setting up and analyzing SIEM logs, network traffic, and endpoint security alerts to understand real-world detection methodologies.
-✅ Simulate real-world adversary tactics to gain insight into how attackers operate while using defensive technologies to monitor, analyze, and mitigate attacks.
-✅ Strengthen cybersecurity fundamentals by deploying and securing critical infrastructure, including web applications, Active Directory, and forensic analysis tools.
-✅ Enhance detection evasion techniques by studying security monitoring tools and identifying gaps in logging, SIEM filtering, and network defenses.
-✅ Build practical cybersecurity experience through offensive and defensive lab exercises, ensuring readiness for both SOC analyst and future Red Team roles.
+#### ✅ Develop hands-on Blue Team expertise by setting up and analyzing SIEM logs, network traffic, and endpoint security alerts to understand real-world detection methodologies.
+#### ✅ Simulate real-world adversary tactics to gain insight into how attackers operate while using defensive technologies to monitor, analyze, and mitigate attacks.
+#### ✅ Strengthen cybersecurity fundamentals by deploying and securing critical infrastructure, including web applications, Active Directory, and forensic analysis tools.
+#### ✅ Enhance detection evasion techniques by studying security monitoring tools and identifying gaps in logging, SIEM filtering, and network defenses.
+#### ✅ Build practical cybersecurity experience through offensive and defensive lab exercises, ensuring readiness for both SOC analyst and future Red Team roles.
 
 The lab is structured as a multi-subnet network running in VirtualBox, managed by pfSense as the core firewall/router. It includes offensive, defensive, and analysis systems to support both attack simulation and forensic analysis.
 
@@ -58,7 +58,7 @@ This lab consists of five core subnets, each designed for a specific purpose:
 - Used for sandboxing malware samples and analyzing behavior.
 - Completely air-gapped from other networks.
 
-## Subprojects
+## Subprojects and Lab Enhancements
 
 1️⃣ OWASP Juice Shop & Splunk Integration
 Summary: Built a vulnerable web app integrated with Splunk to analyze security threats and attack patterns.
